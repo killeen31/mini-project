@@ -3,11 +3,11 @@ TEAM 1: John, Chelsea, Stephanie, Chris, Tiffany
 
 Live Link: 
 
+
 GitHub Link: 
 
+
 Screenshot of app:
-
-
 
 
 Project Details:
