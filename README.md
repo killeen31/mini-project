@@ -5,7 +5,7 @@ Live Link:
 
 GitHub Link: 
 
-Screenshot:
+Screenshot of app:
 
 
 
